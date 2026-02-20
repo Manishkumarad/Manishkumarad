@@ -6,7 +6,11 @@
 📍 Bhopal, India
 
 ## 🛠️ Tech Stack
-**JavaScript • C# • Node.js • Express • React • MongoDB • Docker • REST APIs**
+**Language** - JavaScript • C# • Cpp
+**Frontend** - HTML , CSS, React.js
+**Backend** - Node.js, Express.js
+**Database** - MongoDB, MYSQL, Redis
+**DevOps** - git, github, Docker , Kubernetes, github actions
 
 ## 🚀 Featured Projects
 - **Job Alert System** – Node.js scraper + email notifier  
